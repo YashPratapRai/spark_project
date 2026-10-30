@@ -1,0 +1,9 @@
+SALES REVENUE PREDICTION
+========================
+
+Algorithm: Linear Regression
+Training Records: 5663
+Testing Records: 1337
+RMSE: 70.9313
+MAE: 39.9238
+R2 Score: 0.7776

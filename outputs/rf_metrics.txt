@@ -1,0 +1,6 @@
+Model: Random Forest Regressor
+Training Records: 5663
+Testing Records: 1337
+RMSE: 27.9566
+MAE: 11.2546
+R2 Score: 0.9655
